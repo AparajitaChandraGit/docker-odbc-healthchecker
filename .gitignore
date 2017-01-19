@@ -1,0 +1,10 @@
+
+.project
+
+*.prefs
+
+*.class
+
+.classpath
+
+target/*
